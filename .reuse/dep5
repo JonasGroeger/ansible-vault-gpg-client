@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ansible-vault-gpg-client
+Upstream-Contact: Jonas Gröger <jonas.groeger@codecentric.de>
+Source: https://github.com/JonasGroeger/ansible-vault-gpg-client/
+
+Files: vault-gpg-client README.md
+Copyright: 2022 Jonas Gröger
+License: MIT
